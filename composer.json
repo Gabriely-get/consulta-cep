@@ -1,0 +1,21 @@
+{
+    "name": "gabri/consulta-cep",
+    "description": "Search cep online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-8": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Gabri\\ConsultaCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriely Cristovao",
+            "email": "gabrielysantos.informatica@gmail.com"
+        }
+    ],
+    "require": {}
+}
