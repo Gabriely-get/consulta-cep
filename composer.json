@@ -4,7 +4,7 @@
     "type": "library",
     "license": "MIT",
     "autoload": {
-        "psr-8": {
+        "psr-0": {
             "Search": "src/"
         },
         "psr-4": {
