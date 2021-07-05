@@ -2,10 +2,10 @@
 
 require_once "vendor/autoload.php";
 
-use Gabri\ConsultaCep\Search;
+use GabrielyW\ConsultaCep\Search;
 
 $search = new Search();
 
-$result = $search->getAdressFromZipcode("11713290");
+$result = $search->getAdressFromZipcode("01001000");
 
 print_r($result);

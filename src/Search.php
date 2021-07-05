@@ -1,6 +1,6 @@
 <?php
 
-namespace Gabri\ConsultaCep;
+namespace GabrielyW\ConsultaCep;
 
 class Search {
 	private $url = "https://viacep.com.br/ws/";
